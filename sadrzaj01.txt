@@ -3,3 +3,4 @@ Sadrzaj:
 1.Naslov
 2.Meni 
 3.Animacije
+4.Kontakt info
