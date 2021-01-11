@@ -1,7 +1,15 @@
-Sadrzaj:
+Kreiranje projekta:
+1.Kreiranje foldera
+2.Dodavanje fajlova
+3.Povezivanje fajlova
 
-1.Naslov
-2.Meni 
-3.Animacije
-4.Kontakt info
-5.Slike
+NavBar:
+- 2 linka i ime
+
+Portfolio grid:
+-slike 
+-tekst 
+-animacije
+
+O meni:
+ 
