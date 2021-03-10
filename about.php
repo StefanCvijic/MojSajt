@@ -6,12 +6,16 @@
         <div class="nav-wrapper">
             <div class="left-side">
                 <div class="nav-link-wrapper">
-                   <a href="index.html">Home</a>
+                   <a href="index.php">Home</a>
                 </div>
 
                 <div class="nav-link-wrapper active-nav-link">  
-                   <a href="about.html">About</a>
-                </div>    
+                   <a href="about.php">About</a>
+                </div>  
+
+                <div class="nav-link-wrapper">  
+                   <a href="portfolio.php">Portfolio</a>
+                </div>      
             </div>
             
             <div class="right-side">
