@@ -24,6 +24,19 @@
                 </div>  
             </div>
         </div>
+        
+        <div class="content-wrapper">
+            <div class="two-column-wrapper">
+                <a href="https://github.com/StefanCvijic/PrviPosao">
+                <div class="portfolio-img-backg">
+                </div>
+                </a>
+                <div class="more-content">
+                    <h2>More soon...</h2>
+                </div>
+            </div>
+        </div>        
+
 </div>
 </body>
 </html>    

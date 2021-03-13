@@ -105,3 +105,15 @@ body{
 .profile-content h1 {
     color: lightseagreen;
 }
+.more-content {
+    color:lightseagreen;
+    align-items: center;
+    padding: 20%;
+    
+}
+.portfolio-img-backg {
+    background-image:url(foto-site/FotoShop.jpg); 
+    border-radius:30px;
+    cursor:pointer;
+    
+}
